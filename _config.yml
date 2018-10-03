@@ -1,6 +1,6 @@
-title: Cayman Blog Theme
-description: Cayman Blog Theme is a clean, responsive blogging theme for Jekyll and GitHub Pages, with social/SEO features.
-show_downloads: true
+title: Ryan's Wild Ride
+description: Come follow along as I attempt to travel around South America
+show_downloads: false
 
 baseurl: "/travel-blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 url: "https://lorepirri.github.io" # change this to the base hostname & protocol for your site
@@ -13,15 +13,4 @@ cayman-blog:
 
 theme: jekyll-theme-cayman
 
-# social
-author: "Lore Pirri"
-image: /thumbnail-jumbo.png
-twitter:
-  username: lorepirri
-#  site:
-facebook:
-  #publisher: 1592372034171500
-  #profile_id: 1809805629
-  app_id: 1798910940422432 # cayman-blog
-  #authors: lorepirri
 #  admins:

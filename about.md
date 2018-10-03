@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me 
-tagline: A bit of info on how I got to do this
+title: About Me 
+tagline: How I Ended Up Here
 permalink: /about.html
 ---
 

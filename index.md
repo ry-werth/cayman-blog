@@ -8,10 +8,11 @@
 layout: home
 ---
 
-Cayman Blog Theme is a clean, responsive blogging theme for Jekyll, with social features. It is inspired by the Cayman Theme for Github Pages, which can be greatly used for single projects but not as blogging platform.
+On September 28th 2018 I set out for South America to live, work, and travel. After graduating from University in December of 2017 I moved back to live with my parents in lovely San Francisco. And while living at home was an absolute dream (Hi mom and dad!), I figured it was time to spread my wings and fly! So I booked a flight to Buenos Aires Agentina, kissed my ma and pa goodbye and left.
 
-This theme has instead all you need to start today blogging with Jekyll, and no effort: pages, posts, few social buttons. Try loading this on mobile too.
+My plan is to spend roughly a month in Buenos Aires, then head as far south as I can before I run out of land. I will then make my way back up north along the western Side of Argentina, through Chile, through Peru, through Colombia and really just keep going until I don't feel like going anymore. Who knows how well I will keep to this outlined itinerary, but having a rough plan made my Dad happy. 
 
-Have a look at the Github page for more information.
+The goal of this website is to keep everyone (or no one) who cares about what I'm up to informed about my activities along the way. Enjoy! 
 
-You find this descriptive text in the `index.md` file, so you can change it, or remove it completely, according to your needs.
+
+

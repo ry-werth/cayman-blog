@@ -23,9 +23,14 @@ layout: default
   <div itemprop="comment">
     {{ coment }}
   </div>
-  ----->
 
   {% if site.disqus.shortname %}
     {% include disqus_comments.html %}
   {% endif %}
+  ----->
+  
+  {% if page.comments %}
+    {% include disqus_comments.html %}
+  {% endif %}
+  
 </article>

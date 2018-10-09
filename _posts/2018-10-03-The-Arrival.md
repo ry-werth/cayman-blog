@@ -13,12 +13,12 @@ I am staying at an Air Bnb in San Telmo, the oldest neighborhood in Buenos Aires
 My Air BnB.
 
 In the first few days here I have been getting a good idea of my surroundings. On Sunday I got to walk around the famous San Telmo Sunday market. This gave me a great introduction to my neighborhood and the local culture. I stumbled upon this magnificent building a few block from the Air BnB.
-<img src="https://raw.githubusercontent.com/ry-werth/travel-blog/master/images/PinkHouse.png.png" alt="My Air BnB in San Telmo" style="max-width:40%; border: 1px solid grey;"/> 
+<img src="https://raw.githubusercontent.com/ry-werth/travel-blog/master/images/PinkHouse.png.png" alt="Pink House" style="max-width:40%; border: 1px solid grey;"/> 
 I later learned this is La Casa Rosada (The Pink House), the executive mansion and office of the President of Argentina.
 
 I have gotten my bus pass and learned where and how to put money on it. I have also gotten a local sim card for my phone and learned that there's this thing called a country code that actually comes before the area code. Most importantly, I have gotten set up at the office I will be working at for the next month. It is a WeWork Community workspace here in Buenos Aires. I got the "hot-desk" plan, meaning that I find a new spot every day. In my three days working here, I have taken a liking to working on the 24th floor as it provides great views I didn't have when I was working from my kitchen table. Another cool perk is the free beer from 12-8pm. But I'm there to work so I try and limit my libations to one an hour. 
 
-<img src="https://raw.githubusercontent.com/ry-werth/travel-blog/master/images/MateWeWork.png" alt="My Air BnB in San Telmo" style="max-width:40%; border: 1px solid grey;"/> 
+<img src="https://raw.githubusercontent.com/ry-werth/travel-blog/master/images/MateWeWork.png" alt="Mate at WeWork" style="max-width:40%; border: 1px solid grey;"/> 
 
 Sipping tea at my desk
 

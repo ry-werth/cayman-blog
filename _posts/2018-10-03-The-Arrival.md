@@ -8,7 +8,7 @@ Welp here goes my first post! I have no idea how long I will be making these, an
 
 I am staying at an Air Bnb in San Telmo, the oldest neighborhood in Buenos Aires. There are five other students living with me, two from Italy, two from Spain, and one from Colombia. The property owner and a property manager also live with us. They have all been extremely welcoming and friendly to the new kid who doesn't know how to speak Spanish.
 
-<img src="../images/MyHouse.png"  alt="hi" class="inline"/>
+<img src="../images/MyHouse.png" alt="Thumbnail of cayman-blog" style="max-width:30%; border: 1px solid grey;"/> 
 
 In the first few days here I have been getting a good idea of my surroundings. On Sunday I got to walk around the famous San Telmo Sunday market. This gave me a great introduction to my neighborhood and the local culture. I have gotten my bus pass and learned where and how to put money on it. I have also gotten a local sim card for my phone and learned that there's this thing called a country code that actually comes before the area code. Most importantly, I have gotten set up at the office I will be working at for the next month. It is a WeWork Community workspace here in Buenos Aires. I got the "hot-desk" plan, meaning that I find a new spot every day. In my three days working here, I have taken a liking to working on the 24th floor as it provides great views I didn't have when I was working from my kitchen table. Another cool perk is the free beer from 12-8pm. But I'm there to work so I try and limit my libations to one an hour. 
 
